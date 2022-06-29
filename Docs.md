@@ -18,4 +18,6 @@
 <li>To log a message to the syslog: logger -t error "Hey therea"</li>
 <li>To run a command in the background you use nohup and &</li>
 <li> In conditions, if the variable will ahve a digit or integer value we use -eq, for charachters we use == </li>
+<li> usermod -L will disable the users </li>
+<li>The command used to check processes: ps -ef</li>
 </ol>
