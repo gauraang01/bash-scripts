@@ -11,5 +11,11 @@
 <ol>/etc/passwd contains users registerd on the system which can perform actions and have a shell assosciated to them
 </p>
 <h2>Commands</h2>
-<ol>scp: Command to securely transfer files between servers "scp [OPTION] [user@]SRC_HOST:]file1 [user@]DEST_HOST:]file2
-"</ol>
+<ol>
+<li>scp: Command to securely transfer files between servers "scp [OPTION] [user@]SRC_HOST:]file1 [user@]DEST_HOST:]file2</li>
+<li>last: lists users who had logged in earlier</li>
+<li>awk: returns particular columns</li>
+<li>To log a message to the syslog: logger -t error "Hey therea"</li>
+<li>To run a command in the background you use nohup and &</li>
+<li> In conditions, if the variable will ahve a digit or integer value we use -eq, for charachters we use == </li>
+</ol>
