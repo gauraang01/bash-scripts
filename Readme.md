@@ -2,22 +2,22 @@
 This repository contains various scripts comprising of various techniques and linux commands:
 
 <ul>
-    <li>** `central-logger.bash:` **    This script will log messages related to only defined keywords like: "refused|invalid|error|fail|lost|shut|down|offline"</li>
-    <li>**check-dir.bash:**     This script will find directories without users or unknown user<li>
-    <li>**check-file-system.bash:**     This script will check for disk space</li>
-    <li>**check-files.bash:**      This script will check whether given files are present in the system</li>
-    <li>**copy-files-to-remote.bash:**      This script will copy files to remote hosts</li>
-    <li>**disable-users-for.bash:**     This script will disable inactive user accounts using for loop</li>
-    <li>**disable-users-xargs.bash:**       This script will disable inactive user accounts with xargs</li>
-    <li>**inventory-add-record.bash:**      This system will add a system inventory to the database file</li>
-    <li>**inventory-delete-record.bash:**       This script will delete system from inventory database file</li>
-    <li>**kill-process.bash:**      This script will find dead or zombie process and kill them </li>
-    <li>**list-users-by-input.bash:**       This script will list users logged in by user input of date</li>
-    <li>**list-users.bash:**        This script will list users logged in today</li>
-    <li>**log-alert.bash:**     This script will send an email to administrator</li>
-    <li>**rename-file.bash:**       Rename files ending with .txt</li>
-    <li>**total-num-files.bash:**       This script will verify total no. of files</li>
-    <li>**user-add-automation.bash:**       This script will check if the user already exists, if not will create along with description specified by -c, and userid is specified by -u</li>
+    <li>central-logger.bash >>>>>> This script will log messages related to only defined keywords like: "refused|invalid|error|fail|lost|shut|down|offline"</li>
+    <li>check-dir.bash >>>>>> This script will find directories without users or unknown user<li>
+    <li>check-file-system.bash >>>>>> This script will check for disk space</li>
+    <li>check-files.bash >>>>>> This script will check whether given files are present in the system</li>
+    <li>copy-files-to-remote.bash >>>>>> This script will copy files to remote hosts</li>
+    <li>disable-users-for.bash >>>>>> This script will disable inactive user accounts using for loop</li>
+    <li>disable-users-xargs.bash >>>>>> This script will disable inactive user accounts with xargs</li>
+    <li>inventory-add-record.bash >>>>>> This system will add a system inventory to the database file</li>
+    <li>inventory-delete-record.bash >>>>>> This script will delete system from inventory database file</li>
+    <li>kill-process.bash >>>>>> This script will find dead or zombie process and kill them </li>
+    <li>list-users-by-input.bash >>>>>> This script will list users logged in by user input of date</li>
+    <li>list-users.bash >>>>>> This script will list users logged in today</li>
+    <li>log-alert.bash >>>>>> This script will send an email to administrator</li>
+    <li>rename-file.bash >>>>>> Rename files ending with .txt</li>
+    <li>total-num-files.bash >>>>>> This script will verify total no. of files</li>
+    <li>user-add-automation.bash >>>>>> This script will check if the user already exists, if not will create along with description specified by -c, and userid is specified by -u</li>
 </ul>
 <hr>
 <hr>
