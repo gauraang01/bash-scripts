@@ -1,9 +1,9 @@
 <h2> Description </h2>
-This repository contains various scripts comprising of various techniques and linux commands:
+This repository contains various scripts comprising of various techniques and linux commands (awk, grep,egrep, ping, usermod, sed, ps, kill, useradd): 
 
 <ul>
     <li>central-logger.bash >>>>>> This script will log messages related to only defined keywords like: "refused|invalid|error|fail|lost|shut|down|offline"</li>
-    <li>check-dir.bash >>>>>> This script will find directories without users or unknown user<li>
+    <li>check-dir.bash >>>>>> This script will find directories without users or unknown user</li>
     <li>check-file-system.bash >>>>>> This script will check for disk space</li>
     <li>check-files.bash >>>>>> This script will check whether given files are present in the system</li>
     <li>copy-files-to-remote.bash >>>>>> This script will copy files to remote hosts</li>
