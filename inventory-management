@@ -1,0 +1,16 @@
+#!/bin/bash
+# Author: Gauraang Sharma
+# Description: This system will add or delete a record from system inventory database file
+
+clear
+echo Please select one of the following options
+echo
+echo 'a= Add a record'
+echo 'd= Delete a record'
+echo
+	read choice
+	case $choice in
+		a)	/home/gauraang/scripts/ps/inventory-add-record.bash;;
+		d)	/home/gauraang/scripts/ps/inventory-delete-record.bash;;
+		*) 	echo Invalid choice
+	esac
