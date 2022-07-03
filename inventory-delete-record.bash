@@ -1,6 +1,6 @@
 #!/bin/bash
 # Author: Gauraang Sharma
-# Description: This sscript will delete system from inventory database file
+# Description: This script will delete system from inventory database file
 
 clear
 echo Please enter hostname or IP address?

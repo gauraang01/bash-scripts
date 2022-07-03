@@ -1,6 +1,6 @@
 #!/bin/bash
 # Author: Gauraang Sharma
-# Description: This script will disable inactive user accounts with for loop
+# Description: This script will disable inactive user accounts using for loop
 
 # -n+2 means get rid of the first line
 

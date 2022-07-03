@@ -1,6 +1,6 @@
 #!/bin/bash
 # Author: Gauraang Sharma
-# Description: This system will add system inventory to database file
+# Description: This system will add a system inventory to the database file
 
 clear
 echo

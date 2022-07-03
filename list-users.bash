@@ -1,6 +1,6 @@
 #!/bin/bash
 # Author: Gauraang Sharma
-# Description: This script will list users logged in by date
+# Description: This script will list users logged in today
 
 # Note: putting quotes on today means that its value will be in quotes like "Wed Jun 29"
 
