@@ -2,22 +2,22 @@
 This repository contains various scripts comprising of various techniques and linux commands:
 
 <ul>
-    <li><u>central-logger.bash: </u>This script will log messages related to only defined keywords like: "refused|invalid|error|fail|lost|shut|down|offline"</li>
-    <li><u>check-dir.bash: </u><This script will find directories without users or unknown userli>
-    <li><u>check-file-system.bash:</u>This script will check for disk space</li>
-    <li><u>check-files.bash: </u>This script will check whether given files are present in the system</li>
-    <li><u>copy-files-to-remote.bash </u>This script will copy files to remote hosts</li>
-    <li><u>disable-users-for.bash </u>This script will disable inactive user accounts using for loop</li>
-    <li><u>disable-users-xargs.bash </u>This script will disable inactive user accounts with xargs</li>
-    <li><u>inventory-add-record.bash </u>This system will add a system inventory to the database file</li>
-    <li><u>inventory-delete-record.bash </u>This script will delete system from inventory database file</li>
-    <li><u>kill-process.bash </u>This script will find dead or zombie process and kill them </li>
-    <li><u>list-users-by-input.bash </u>This script will list users logged in by user input of date</li>
-    <li><u>list-users.bash </u>This script will list users logged in today</li>
-    <li><u>log-alert.bash </u>This script will send an email to administrator</li>
-    <li><u>rename-file.bash </u>Rename files ending with .txt</li>
-    <li><u>total-num-files.bash </u>This script will verify total no. of files</li>
-    <li><u>user-add-automation.bash </u>This script will check if the user already exists, if not will create along with description specified by -c, and userid is specified by -u</li>
+    <li>**central-logger.bash:**    This script will log messages related to only defined keywords like: "refused|invalid|error|fail|lost|shut|down|offline"</li>
+    <li>**check-dir.bash:**     This script will find directories without users or unknown user<li>
+    <li>**check-file-system.bash:**     This script will check for disk space</li>
+    <li>**check-files.bash:**      This script will check whether given files are present in the system</li>
+    <li>**copy-files-to-remote.bash:**      This script will copy files to remote hosts</li>
+    <li>**disable-users-for.bash:**     This script will disable inactive user accounts using for loop</li>
+    <li>**disable-users-xargs.bash:**       This script will disable inactive user accounts with xargs</li>
+    <li>**inventory-add-record.bash:**      This system will add a system inventory to the database file</li>
+    <li>**inventory-delete-record.bash:**       This script will delete system from inventory database file</li>
+    <li>**kill-process.bash:**      This script will find dead or zombie process and kill them </li>
+    <li>**list-users-by-input.bash:**       This script will list users logged in by user input of date</li>
+    <li>**list-users.bash:**        This script will list users logged in today</li>
+    <li>**log-alert.bash:**     This script will send an email to administrator</li>
+    <li>**rename-file.bash:**       Rename files ending with .txt</li>
+    <li>**total-num-files.bash:**       This script will verify total no. of files</li>
+    <li>**user-add-automation.bash:**       This script will check if the user already exists, if not will create along with description specified by -c, and userid is specified by -u</li>
 </ul>
 <hr>
 <hr>
